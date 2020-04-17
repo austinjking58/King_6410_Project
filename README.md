@@ -18,6 +18,7 @@ and called these my Halo Stars.
 Overall, my results were as expected. All plots showed a stronger correlation of the postitions
 of red stars than blue stars except for the halo stars from Gaia data. I expect this is simply a 
 sample error and is due to the fact that we did not have enough stars in this region from the 
-Gaia data to make a more accurate estimate. I also found that stars in the disk have stronger 
-correlation than stars in the halo, which is expected due to the incresed stellar density in the 
-disk.
+Gaia data to make a more accurate estimate. I applied error bars to this plot to show that the 
+very high coorelation for these blue stars has a significant error associated with it. I also 
+found that stars in the disk have stronger correlation than stars in the halo, which is expected
+due to the incresed stellar density in the disk.
